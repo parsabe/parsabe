@@ -26,12 +26,14 @@ Plug 'https://github.com/neoclide/coc.nvim', {'branch': 'release'} " Code comple
 Plug 'https://github.com/ryanoasis/vim-devicons'                " File icons
 Plug 'https://github.com/preservim/tagbar'                      " Code navigation with tags
 Plug 'https://github.com/terryma/vim-multiple-cursors'          " Multiple cursor support
+Plug 'puremourning/vimspector'
+
 .
 " End of plugin declarations
 call plug#end()
 
 " Load Vimspector manually as it was cloned manually
-packadd! vimspector
+
 
 " Key mappings for split layout and functionality
 nnoremap <C-b> :call ToggleNERDTree()<CR>                         " Ctrl-b to toggle file explorer
