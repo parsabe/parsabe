@@ -1,3 +1,10 @@
+"first run this command 
+
+sudo apt install dos2unix
+sudo dos2unix ~/.config/nvim/init.vim
+
+
+
 " General Neovim settings
 set number                   " Show line numbers
 set norelativenumber         " Disable relative line numbers
