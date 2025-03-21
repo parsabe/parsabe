@@ -53,7 +53,7 @@ sudo cp -rf init.vim ~/.config/nvim/
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
-
+unzip ant.zip
 sudo cp -rf Ant-Nebula /usr/share/themes
 
 
@@ -71,6 +71,9 @@ sudo apt-get upgrade -y
 curl ifconfig.me
 
 
+cd xdm/
+unrar x xdm.zip.part1
+sudo ./install.sh
 
 
 
