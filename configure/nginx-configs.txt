@@ -1,0 +1,48 @@
+#set this config file to sites-available then link to enable:
+
+ln -s /etc/nginx/sites-available/conf /etc/nginx/sites-enabled/
+
+----------------
+server {
+    listen 80;
+    listen [::]:80;
+
+    server_name yourdomain.com www.yourdomain.com;
+
+    # Redirect all HTTP traffic to HTTPS
+    location / {
+        return 301 https://$host$request_uri;
+    }
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+
+    server_name yourdomain.com www.yourdomain.com;
+
+    root /var/www/yourdomain.com/html;
+    index index.php index.html index.htm;
+
+    ssl_certificate /etc/nginx/ssl/yourdomain.com.crt;
+    ssl_certificate_key /etc/nginx/ssl/yourdomain.com.key;
+
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers HIGH:!aNULL:!MD5;
+    ssl_prefer_server_ciphers on;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
