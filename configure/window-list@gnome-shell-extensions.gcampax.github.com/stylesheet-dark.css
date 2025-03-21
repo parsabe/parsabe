@@ -1,0 +1,87 @@
+/*
+ * SPDX-FileCopyrightText: 2012 Florian Müllner <fmuellner@gnome.org>
+ * SPDX-FileCopyrightText: 2013 Giovanni Campagna <gcampagna@src.gnome.org>
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ */
+@import url("stylesheet-workspace-switcher-dark.css");
+
+.window-list {
+  spacing: 2px;
+  font-size: 10pt;
+}
+
+.bottom-panel {
+  background-color: #000000;
+  border-top-width: 0px;
+  height: 2.45em;
+}
+
+.window-button {
+  padding: 4px, 3px;
+}
+
+.window-button:first-child:ltr {
+  padding-left: 2px;
+}
+
+.window-button:last-child:rtl {
+  padding-right: 2px;
+}
+
+.window-button-box {
+  spacing: 4px;
+}
+
+.window-button > StWidget {
+  color: #fff;
+  background-color: transparent;
+  border-radius: 4px;
+  padding: 3px 6px 1px;
+  transition: 100ms ease;
+}
+
+.window-button > StWidget {
+  -st-natural-width: 18.75em;
+  max-width: 18.75em;
+}
+
+.window-button:hover > StWidget {
+  background-color: #303030;
+}
+
+.window-button:active > StWidget,
+.window-button:focus > StWidget {
+  background-color: st-lighten(#303030, 5%);
+}
+
+.window-button.focused > StWidget {
+  background-color: #5b5b5b;
+}
+
+  .window-button.focused:hover > StWidget {
+    background-color: st-lighten(#5b5b5b, 5%);
+  }
+
+  .window-button.focused:active > StWidget {
+    background-color: st-lighten(#5b5b5b, 10%);
+  }
+
+.window-button.minimized > StWidget {
+  color: #666;
+  background-color: #161616;
+}
+
+.window-button.minimized:active > StWidget {
+  color: #666;
+  background-color: #161616;
+}
+
+.window-button-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.notification {
+  font-weight: normal;
+}
