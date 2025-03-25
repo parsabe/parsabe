@@ -21,6 +21,13 @@ sudo apt-get install php-xml
 sudo apt-get install php-curl
 sudo apt install nodejs npm
 sudo apt install composer
+sudo apt install obs-studio
+sudo apt install xinput
+sudo apt update
+sudo apt install xserver-xorg-input-wacom
+sudo apt install xournalpp
+
+
 
 sudo apt install -y docker.io
 sudo systemctl enable docker --now
