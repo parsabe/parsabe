@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/parsabe)
 [![Outlook Email](https://img.shields.io/badge/Email-590091?style=for-the-badge&logo=gmail&logoColor=black)](mailto:parsabe99@outlook.com)
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-1DD05D?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0d9GK8G5vuxfuXtqMpK1j2?si=6ddb5f942790403e)
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-1DD05D?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6hyIAxKVYm38T50KUZkNeW?si=x84h9hDITzailq4pi4EcIA&pi=PB97I-wvR5WQt)
 
 
 
