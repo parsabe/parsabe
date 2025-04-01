@@ -136,6 +136,7 @@ echo "🚀 Copy this key and add it to your GitHub → Settings → SSH and GPG 
 
 echo "✅ SSH and Git setup completed!"
 echo "--------------------------------------------"
+sudo apt install gimp
 
 # === Ask for reboot ===
 read -p "🔄 Process is done. Should I reboot? (y/n): " answer
