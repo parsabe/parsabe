@@ -100,8 +100,54 @@ sudo apt install linux-image-amd64
 tar ./xdm-installer.sh
 sudo dpkg -i code.deb
 
+#!/bin/bash
 
-sudo reboot
+# === Variables ===
+EMAIL="parsabe99@gmail.com"
+USERNAME="parsabe"
+KEY_FILE="$HOME/.ssh/id_ed25519"
+
+# === Check if SSH key exists ===
+if [ -f "$KEY_FILE" ]; then
+  echo "✅ SSH key already exists at $KEY_FILE"
+else
+  echo "🔑 Generating new SSH key..."
+  ssh-keygen -t ed25519 -C "$EMAIL" -f "$KEY_FILE" -N ""
+fi
+
+# === Start ssh-agent ===
+eval "$(ssh-agent -s)"
+
+# === Add SSH key to agent ===
+ssh-add "$KEY_FILE"
+
+# === Set global Git config ===
+git config --global user.name "$USERNAME"
+git config --global user.email "$EMAIL"
+
+# === Show Public Key ===
+echo "📋 Your SSH Public Key:"
+echo "--------------------------------------------"
+cat "$KEY_FILE.pub"
+echo "--------------------------------------------"
+echo "🚀 Copy this key and add it to your GitHub → Settings → SSH and GPG keys → New SSH key"
+
+# === Done ===
+
+echo "✅ SSH and Git setup completed!"
+echo "--------------------------------------------"
+
+# === Ask for reboot ===
+read -p "🔄 Process is done. Should I reboot? (y/n): " answer
+
+if [[ "$answer" =~ ^[Yy]$ ]]; then
+  echo "🚀 Rebooting now..."
+  sudo reboot
+else
+  echo "👍 No reboot. You can continue working."
+fi
+
+
 
 
 
