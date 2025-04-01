@@ -10,6 +10,7 @@ sudo systemctl enable --now snapd.apparmor.service
 sudo snap install telegram-desktop
 
 sudo apt update
+
 sudo apt install leafpad
 sudo apt-get install winff
 sudo apt-get install brasero
@@ -26,6 +27,7 @@ sudo apt install xinput
 sudo apt update
 sudo apt install xserver-xorg-input-wacom
 sudo apt install xournalpp
+sudo apt install gimp
 
 
 
@@ -136,7 +138,8 @@ echo "🚀 Copy this key and add it to your GitHub → Settings → SSH and GPG 
 
 echo "✅ SSH and Git setup completed!"
 echo "--------------------------------------------"
-sudo apt install gimp
+sudo apt install git-lfs
+
 
 # === Ask for reboot ===
 read -p "🔄 Process is done. Should I reboot? (y/n): " answer
