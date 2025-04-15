@@ -85,6 +85,14 @@ unrar x xdm.zip.part1
 sudo ./install.sh
 
 
+sudo apt update
+sudo apt install g++
+sudo apt install gdb
+sudo apt install build-essential
+sudo apt update
+sudo apt install openmpi-bin openmpi-common libopenmpi-dev
+
+
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install firmware-linux-nonfree firmware-misc-nonfree
