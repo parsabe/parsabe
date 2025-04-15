@@ -152,6 +152,9 @@ sudo apt install git-lfs
 
 wget https://github.com/parsabe/parsabe/releases/download/Conda/conda.sh
 bash conda.sh
+source ~/.bashrc
+source ~/.zshrc
+
 
 # === Ask for reboot ===
 read -p "🔄 Process is done. Should I reboot? (y/n): " answer
