@@ -166,7 +166,7 @@ else
   echo "👍 No reboot. You can continue working."
 fi
 
-
+python tubaf.py
 
 
 
