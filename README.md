@@ -3,14 +3,27 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/parsabe)
-[![Outlook Email](https://img.shields.io/badge/Email-590091?style=for-the-badge&logo=gmail&logoColor=black)](mailto:parsabe99@outlook.com)
+[![Website](https://img.shields.io/badge/Website-590091?style=for-the-badge&logo=github&logoColor=white)](https://parsabe.github.io)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
+[![Outlook Email](https://img.shields.io/badge/Email-590091?style=for-the-badge&logo=gmail&logoColor=White)](mailto:parsabe99@outlook.com)
 
+</div>
 
+<p>
+  I am currently pursuing a Master's degree in Data Science at TU Freiberg, fueled by a deep passion for utilizing data to create impactful solutions.
 
+My journey has led me to a position as a Working Student Senior Software Engineer, where I am eager to apply my expertise and contribute to image-based data coordination.
 
+In addition, I have a strong interest in Artificial Intelligence and its vast potential. My goal is to specialize in this domain, leveraging my foundation in Data Science to uncover insights that enhance operational efficiency and drive strategic innovation.
+
+Bringing together Artificial Intelligence, Data Science, Software, and IT Engineering defines my professional vision. I believe that this interconnected approach is the key to developing groundbreaking solutions and making a lasting difference.
+
+I’d love to connect and explore new opportunities where data-driven insights lead to transformative possibilities!
+</p>
 
 
 <br/><br/>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsabe&layout=compact&bg_color=0d0d2b&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&border_color=4b0082&langs_count=8">
 
 <br/><br/>
