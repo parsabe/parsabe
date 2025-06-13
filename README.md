@@ -1,11 +1,12 @@
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsabe)
+[![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://parsabe.github.io)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
+[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa.besharat@student.tu-freiberg.de)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/parsabe)
-[![Website](https://img.shields.io/badge/Website-590091?style=for-the-badge&logo=github&logoColor=white)](https://parsabe.github.io)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
-[![Outlook Email](https://img.shields.io/badge/Email-590091?style=for-the-badge&logo=gmail&logoColor=White)](mailto:parsabe99@outlook.com)
 
 </div>
 
