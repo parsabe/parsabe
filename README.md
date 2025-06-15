@@ -1,15 +1,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsabe)
-[![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://parsabe.github.io)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
-[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa.besharat@student.tu-freiberg.de)
-
-
+## Data Scientist / Software & Web Engineer / DataBase Engineer / IT Engineer
 
 </div>
-
+<br/>
 <p>
   I am currently pursuing a Master's degree in Data Science at TU Freiberg, fueled by a deep passion for utilizing data to create impactful solutions.
 
@@ -23,13 +18,14 @@ I’d love to connect and explore new opportunities where data-driven insights l
 </p>
 
 
-<br/><br/>
+<br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsabe&layout=compact&bg_color=0d0d2b&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&border_color=4b0082&langs_count=8">
-
-<br/><br/>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsabe)
+[![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://parsabe.github.io)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
+[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa.besharat@student.tu-freiberg.de)
 
 
 
 </div>
-
