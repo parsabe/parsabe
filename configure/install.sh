@@ -74,16 +74,12 @@ sudo cp -rf Ant-Nebula /usr/share/themes
 mkdir -p ~/.local/share/gnome-shell/extensions/
 cp -rf window-list@gnome-shell-extensions.gcampax.github.com  ~/.local/share/gnome-shell/extensions/
 
-gnome-extensions enable window-list@gnome-shell-extensions.gcampax.github.com
-gnome-shell --replace &
 
+python -m venv venv
+echo 'source venv/bin/activate' >> ~/.zshrc
+source ~/.zshrc
 
-sudo apt update -y
-sudo apt upgrade -y
-sudo apt-get upgrade -y
-
-curl ifconfig.me
-
+pip install numpy pandas scikit-learn matplotlib seaborn telert csvkit euporie tensor torch 
 
 cd xdm/
 unrar x xdm.zip.part1
