@@ -36,6 +36,8 @@ sudo apt install gimp
 
 
 
+
+
 sudo apt install -y docker.io
 sudo systemctl enable docker --now
 
