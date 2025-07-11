@@ -34,8 +34,6 @@ sudo apt install gimp
 
 
 
-
-
 sudo apt install -y docker.io
 sudo systemctl enable docker --now
 
@@ -44,7 +42,6 @@ wget -O- https://app.eduvpn.org/linux/v4/deb/app+linux@eduvpn.org.asc | gpg --de
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/eduvpn-v4.gpg] https://app.eduvpn.org/linux/v4/deb/ bullseye main" | sudo tee /etc/apt/sources.list.d/eduvpn-v4.list
 sudo apt update
 sudo apt install eduvpn-client
-
 
 
 sudo snap install kubectl --classic
