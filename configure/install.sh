@@ -62,10 +62,7 @@ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 
-cd /home/hounaar
-python -m venv venv
-echo 'source venv/bin/activate' >> ~/.zshrc
-source ~/.zshrc
+
 
 pip install numpy pandas scikit-learn matplotlib seaborn telert csvkit euporie tensor torch 
 
@@ -97,7 +94,18 @@ git config --global user.email "parsabe99@outlook.com"
 
 sudo apt install git-lfs
 
+sudo apt update 
+sudo apt --fix-broken install
+
+
 python tubaf.py
+
+
+cd /home/hounaar
+python -m venv venv
+echo 'source venv/bin/activate' >> ~/.zshrc
+source ~/.zshrc
+
 
 
 
