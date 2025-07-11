@@ -15,7 +15,7 @@ set encoding=UTF-8           " Set encoding to UTF-8
 set completeopt=menu,menuone,noinsert " Completion options
 
 " Plugin management using vim-
-call plug#begin('~/.config/nvim/plugged')
+call plug#begin('~/.local/share/nvim/site/autoload')
 
 Plug 'folke/tokyonight.nvim'
 Plug 'turbio/bracey.vim'
