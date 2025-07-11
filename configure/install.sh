@@ -64,7 +64,6 @@ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
 
 
 
-pip install numpy pandas scikit-learn matplotlib seaborn telert csvkit euporie tensor torch 
 
 
 cd xdm/
@@ -107,6 +106,7 @@ echo 'source venv/bin/activate' >> ~/.zshrc
 source ~/.zshrc
 
 
+pip install numpy pandas scikit-learn matplotlib seaborn telert csvkit euporie tensor torch 
 
 
 
