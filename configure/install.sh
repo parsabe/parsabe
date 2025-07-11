@@ -1,9 +1,13 @@
 echo "Installing necessary packages..."
-# download
+
+
 wget https://http.kali.org/kali/pool/main/k/kali-archive-keyring/kali-archive-keyring_2025.1_all.deb
 
-# install
+
 sudo dpkg -i kali-archive-keyring_2025.1_all.deb
+
+
+
 sudo apt update
 sudo apt -y install vlc
 sudo apt -y install unrar
