@@ -70,7 +70,7 @@ source ~/.zshrc
 pip install numpy pandas scikit-learn matplotlib seaborn telert csvkit euporie tensor torch 
 
 
-cd /home/hounaar/Desktop/parsabe/configure/xdm/
+cd xdm/
 unrar x xdm.zip.part1
 sudo ./install.sh
 
