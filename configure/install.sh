@@ -96,6 +96,11 @@ sudo apt install git-lfs
 sudo apt update 
 sudo apt --fix-broken install
 
+wget -O- https://updates.signal.org/desktop/apt/keys.asc | gpg --dearmor > signal-desktop-keyring.gpg;
+cat signal-desktop-keyring.gpg | sudo tee /usr/share/keyrings/signal-desktop-keyring.gpg > /dev/null
+
+
+
 
 python tubaf.py
 
