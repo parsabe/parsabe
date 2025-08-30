@@ -18,7 +18,7 @@ I’d love to connect and explore new opportunities where data-driven insights l
 
 <br/>
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsabe)
 [![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://parsabe.github.io)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
