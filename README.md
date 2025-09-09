@@ -15,7 +15,6 @@ Bringing together Artificial Intelligence, Data Science, Software, and IT Engine
 
 I’d love to connect and explore new opportunities where data-driven insights lead to transformative possibilities!
 </p>
-
 <br/>
 <div align="center">
 
