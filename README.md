@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Data Scientist / Software & Web Engineer / DataBase Engineer / IT Engineer
+## AI Engineer / Data Scientist / Software & Web Engineer / DataBase Engineer / IT Engineer
 </div>
 <br/>
 <p>
