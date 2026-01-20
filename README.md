@@ -1,6 +1,5 @@
 
 <div align="center">
-
 ## AI Engineer / Data Scientist / Software & Web Engineer / DataBase Engineer / IT Engineer
 </div>
 <br/>
