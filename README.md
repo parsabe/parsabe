@@ -27,5 +27,7 @@ I’d love to connect and explore new opportunities where data-driven insights l
 
 
 </div>
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&descAlign=100&section=footer)
 
