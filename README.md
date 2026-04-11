@@ -1,6 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Parsa%20Besharat&animation=twinkling)
-
-
 <div align="center">
   
 ## AI Engineer / Data Scientist / Software & Web Engineer / DataBase Engineer / IT Engineer
