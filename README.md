@@ -21,7 +21,7 @@ I’d love to connect and explore new opportunities where data-driven insights l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsabe)
 [![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://parsabe.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
-[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa.besharat@student.tu-freiberg.de)
+[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsabe99@outlook.com)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3mx7duxxyvb2rdv6eaadd2qqa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1e00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3mx7duxxyvb2rdv6eaadd2qqa&redirect=true)
 
