@@ -22,7 +22,7 @@ I’d love to connect and explore new opportunities where data-driven insights l
 [![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://parsabe.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00BFA5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Besharat)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/parsabe)
-[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsabe99@outlook.com)
+[![Outlook Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa@parsabe.com)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3mx7duxxyvb2rdv6eaadd2qqa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1e00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3mx7duxxyvb2rdv6eaadd2qqa&redirect=true)
 
